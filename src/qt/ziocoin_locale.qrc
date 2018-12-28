@@ -1,0 +1,29 @@
+<!DOCTYPE RCC><RCC version="1.0">
+    <qresource prefix="/translations">
+        <file alias="bg">locale/ziocoin_bg.qm</file>
+        <file alias="ca">locale/ziocoin_ca.qm</file>
+        <file alias="cs">locale/ziocoin_cs.qm</file>
+        <file alias="da">locale/ziocoin_da.qm</file>
+        <file alias="de">locale/ziocoin_de.qm</file>
+        <file alias="en">locale/ziocoin_en.qm</file>
+        <file alias="en_US">locale/ziocoin_en_US.qm</file>
+        <file alias="es">locale/ziocoin_es.qm</file>
+        <file alias="fi">locale/ziocoin_fi.qm</file>
+        <file alias="fr_FR">locale/ziocoin_fr_FR.qm</file>
+        <file alias="it">locale/ziocoin_it.qm</file>
+        <file alias="ja">locale/ziocoin_ja.qm</file>
+        <file alias="ko_KR">locale/ziocoin_ko_KR.qm</file>
+        <file alias="nl">locale/ziocoin_nl.qm</file>
+        <file alias="pl">locale/ziocoin_pl.qm</file>
+        <file alias="pt">locale/ziocoin_pt.qm</file>
+        <file alias="pt_BR">locale/ziocoin_pt_BR.qm</file>
+        <file alias="ro_RO">locale/ziocoin_ro_RO.qm</file>
+        <file alias="ru">locale/ziocoin_ru.qm</file>
+        <file alias="sk">locale/ziocoin_sk.qm</file>
+        <file alias="sv">locale/ziocoin_sv.qm</file>
+        <file alias="tr">locale/ziocoin_tr.qm</file>
+        <file alias="uk">locale/ziocoin_uk.qm</file>
+        <file alias="zh_CN">locale/ziocoin_zh_CN.qm</file>
+        <file alias="zh_TW">locale/ziocoin_zh_TW.qm</file>
+    </qresource>
+</RCC>

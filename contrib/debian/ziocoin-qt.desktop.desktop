@@ -1,0 +1,11 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=ZioCoin
+Comment=ZioCoin P2P Cryptocurrency
+Exec=ziocoin-qt %u
+Terminal=false
+Type=Application
+Icon=ziocoin128
+MimeType=x-scheme-handler/ziocoin;
+Categories=Office;Finance;
+Name[en_US]=ziocoin-qt.desktop
